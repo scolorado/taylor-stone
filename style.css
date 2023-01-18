@@ -14,3 +14,9 @@ body{
 #header{
     text-align: center;
 }
+#vinyls{
+    background-color: #f9e3ef;
+}
+#vinyl{
+    height: 300px;
+}
