@@ -13,6 +13,7 @@ body{
 }
 #header{
     text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 #vinyls{
     background-color: #f9e3ef;
@@ -28,4 +29,7 @@ body{
     background-color: #4a7397;
     color: white;
     text-align: center;
+}
+#sans{
+    font-family: 'Raleway', sans-serif;
 }
