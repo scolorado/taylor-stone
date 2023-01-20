@@ -10,6 +10,9 @@ body{
 }
 #welcome{
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    color: #021a2e;
 }
 #header{
     text-align: center;
